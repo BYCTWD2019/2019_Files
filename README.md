@@ -1,6 +1,6 @@
 # 2019_Files
 
-Instructions on how to install the tools and build the project are in "Getting started with arduino.docx". Please refer to this document for the usage of the other files in this repository.
+Instructions on how to install the tools and build the project are in "Get Started with Arduino.docx". Please refer to this document for the usage of the other files in this repository.
 
 
 BYCTWD_2019_WiringDiagram.pdf
